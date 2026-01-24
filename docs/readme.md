@@ -1,15 +1,13 @@
 [Log] Module 1 Dev Log:
 ## Name: Matthew Onorato
 ### Module: 1
-
-<!-- Repeat the below as needed-->
 ### Date: [01/22/2026]
 
 #### Goals for this Module
-- [What does this class entail exactly and what can I expect from it in the future?]
-- [ ] What exactly is a video game at its simplest?
-- [ ] What does a video game look like in its most complex forms?
-- [ ] How does my opinion as some who have just played them differ from those who actually make them?
+- What does this class entail exactly and what can I expect from it in the future?]
+- What exactly is a video game at its simplest?
+- What does a video game look like in its most complex forms?
+- How does my opinion as some who have just played them differ from those who actually make them?
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
