@@ -61,7 +61,7 @@
   - Where everyone gets a say
 - **Sketches/Logo**:
    
-![image alt](https://raw.githubusercontent.com/mho5-mt/mho5-IT265-002-2026/main/docs/RoundTGs.PNG)
+![image alt](RoundTGs.PNG)
 
 ## Additional Notes
 *Include any other ideas, inspirations, or thoughts related to your studio or project.*
