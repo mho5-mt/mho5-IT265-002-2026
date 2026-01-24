@@ -62,7 +62,6 @@
 - **Sketches/Logo**:
    
 ![image alt](RoundTGs.PNG)
-
 ## Additional Notes
 *Include any other ideas, inspirations, or thoughts related to your studio or project.*
 > The more interactions between players, the different scenarios they can find themselves in, the more memories I can create, the better the game will be in my opinion and is what I strive for. Creating stories players can talk and tell others about keep people coming back for more.
