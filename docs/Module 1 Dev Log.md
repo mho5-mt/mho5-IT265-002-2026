@@ -23,4 +23,4 @@
 - All this behind the scenes stuff might be a little much for me. I am not sure yet, I will have to build up my skills, confidence and understanding of everything as time goes. So I might try to take this class one assignment at a time to not get overwhelmed, while staying on target for due dates.
 
 #### Next Steps
-- Go to class next week on time and see what happens. I already have some really good ideas for my game that I think could be done during my time here this semester. I am looking forward to seeing it through.
+- Go to class next week on time and see what happens. I already have some really good ideas for my game that I think could be done during my time here this semester. I am looking forward to seeing them through.
