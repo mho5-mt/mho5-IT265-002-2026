@@ -6,13 +6,10 @@
 ### Date: [01/22/2026]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] What does this class entail exactly and what can I expect from it in the future?
+- [What does this class entail exactly and what can I expect from it in the future?]
 - [ ] What exactly is a video game at its simplest?
 - [ ] What does a video game look like in its most complex forms?
 - [ ] How does my opinion as some who have just played them differ from those who actually make them?
--->
-
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
