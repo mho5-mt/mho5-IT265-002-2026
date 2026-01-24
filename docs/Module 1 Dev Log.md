@@ -1,6 +1,6 @@
 ## Name: Matthew Onorato
 ### Module: 1
-### Date: [01/22/2026]
+### Date: 01/22/2026
 
 #### Goals for this Module
 - What does this class entail exactly and what can I expect from it in the future?
