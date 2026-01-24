@@ -60,6 +60,7 @@
   - Everyone has a seat at the table
   - Where everyone gets a say
 - **Sketches/Logo**:
+   
 ![image alt](https://github.com/mho5-mt/mho5-IT265-002-2026/blob/d83e079c7d3839d67ccadc3c51fad4ef425ac568/RoundTGs.PNG)
 
 ## Additional Notes
