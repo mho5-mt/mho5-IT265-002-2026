@@ -59,7 +59,7 @@
   - Where players and developers meet
   - Everyone has a seat at the table
   - Where everyone gets a say
-- **Sketches/Logo**: lame
+- **Sketches/Logo**:
    
 ![image alt](RoundTGs.PNG)
 
