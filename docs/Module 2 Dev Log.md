@@ -1,6 +1,6 @@
 ## Name: Matthew Onorato
 ### Module: 2
-### Date: [02/05/2026]
+### Date: [02/07/2026]
 
 #### Goals for this Module
 - Learn about game balance and how it translates to game design and level design
@@ -48,7 +48,7 @@
 I have been thinking about my game prototype for the semester and what I want it to look like. I had two really interesting ideas, one that takes inspiration from a game I recently played.
 > I have been playing a game called routine in my spare time. It is a horror game that takes place onboard an abandoned space ship where there is some sort of overgrowth spreading a blight among the crew (I haven’t finished it yet). In one section of the game you are being chased by an entity that can only be seen through your hand held device.
 > I have referred to this device as an ipod, because it is about the same shape and size. It’s a really scary moment. You have to navigate these tight corridors and if you hear the entity, you have to pull up this tiny camera to figure out their exact location. This shift in perspective is a really fun game mechanic.
-> Another thought that has crossed my mind is that I wanted the prototype to be a small horror couch co-op game, similar to that of the luigi mansion game from nintendo land on the wii u. I really liked playing that with my friends all the time when we were younger. It is kind of a top down, isometric view, looking from above on a cast of characters.-->
+> Another thought that has crossed my mind is that I wanted the prototype to be a small horror couch co-op game, similar to that of the luigi mansion game from nintendo land on the wii u. I really liked playing that with my friends all the time when we were younger. It is kind of a top down, isometric view, looking from above on a cast of characters.
 
 #### Next Steps
 > My idea for the week is to merge these two ideas, one from my horror experience and the other as my original inspiration. Have players normally look down on a maze-like game board before switching perspective, likely first person in this case, to provide more insight on the game space around them, before switching back to top down. This will be my main game mechanic. The actual game, interaction, incentive and goals will come later down the road.
