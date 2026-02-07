@@ -1,6 +1,6 @@
 ## Name: Matthew Onorato
 ### Module: 2
-### Date: [02/07/2026]
+### Date: 02/07/2026
 
 #### Goals for this Module
 - Learn about game balance and how it translates to game design and level design
