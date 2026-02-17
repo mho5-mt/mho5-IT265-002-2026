@@ -11,13 +11,13 @@
 #### Progress
 - **What I accomplished**:
   - Last week I wrote about some of my favorite video games, except this time it was about the different problems I had with them and what I would change to fix them
-  - Part of me wondered if I wrote too much or not, I tend to over do projects like this but I was having fun writing and wanted to keep going
-  - I talked about hollow knight, dead by daylight and call of duty black ops 4 zombies, some pretty notable games from my childhood
-  - I even recognized some of the games my classmates covered, I tried to respond to one who talked about the evolution of minecraft, I can only hope someone responds to my own in as thoughtful a manner despite me knowing criticizing some gamer fan favorites
+  - Part of me wondered if I wrote too much or not, I tend to over do projects like this but I was having fun writing
+  - I talked about hollow knight, dead by daylight and call of duty black ops zombies, some pretty notable games from my childhood
+  - I even recognized some of the games my classmates covered, I tried to respond to one who talked about the evolution of minecraft, I can only hope someone responds to my own in as thoughtful a manner despite me criticizing some fan favorites
   - I really wanted to put some time into thinking about my game this past week, but things got hectic with due dates for studio and some of my other classes, I will try to do what I can now
-  - It's really hard to plan a functional game that would work both in unity and for a physical prototype, it feel like I can only do one at a time
 
 - **Challenges faced**:
+  - It's really hard to plan a functional game that would work both in unity and for a physical prototype
   - So for the mid-term I need to make a physical prototype of a multiplayer simple turn based video game
   - I wanted the prototype to be a small horror couch co-op game, similar to that of the luigi mansion game from nintendo land, this was the original idea
   - I also wanted to combine an idea from a video game I have played recently that featured a drastic change in perspective, so in the case of my game, it would likely involve switching from a top down view to first person
