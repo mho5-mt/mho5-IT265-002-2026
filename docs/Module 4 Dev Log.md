@@ -19,7 +19,9 @@
   - My original idea seems to not be as much of a hit as I thought it was going to be when we discussed our plans during class
   - I might have to rethink some things and re-envision what I think this will look like in my head
 - **Solutions**:
-      > I sat down for a few hours and finally decided the direction I wanted to go with my game. It was really helpful getting to hear what other students were working on during class and getting to share where I was at the moment. It gave me some insight that I was walking into a dead end if I stuck too much to my initial idea. So I wrote down what I definitely wanted to keep, throughout everything else like my shift in perspective concept and started anew.
+  - I sat down for a few hours and finally decided the direction I wanted to go with my game. It was really helpful getting to hear what other students were working on during class and getting to share where I was at the moment
+  - It gave me some insight that I was walking into a dead end if I stuck too much to my initial idea
+  - So I wrote down what I definitely wanted to keep, throughout everything else like my shift in perspective concept and started anew
 
 #### Learnings
 - After listening to my classmates ideas during class, it seems they are happy with much of their game mechanics being determined by the role of a die
