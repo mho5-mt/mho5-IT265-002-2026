@@ -11,17 +11,15 @@
 
 #### Progress
 - **What I accomplished**:
-- I attended both classes this week and learned a lot about game mechanics and their influence on player attention and agency
-- Adding an upside and downside to decision making within a video game is what maintains player agency and makes it fun to play
-
+  - I attended both classes this week and learned a lot about game mechanics and their influence on player attention and agency
+  - Adding an upside and downside to decision making within a video game is what maintains player agency and makes it fun to play
 - **Challenges faced**:
-- I have a project going on in each of my design classes which is making it hard to plan for my own game
-- It seems my classmates have far more concrete ideas than my own in terms of what they want to do for the project, I think I might be a little behind
-- My original idea seems to not be as much of a hit as I thought it was going to be when we discussed our plans during class
-- I might have to rethink some things and re-envision what I think this will look like in my head
-
+  - I have a project going on in each of my design classes which is making it hard to plan for my own game
+  - It seems my classmates have far more concrete ideas than my own in terms of what they want to do for the project, I think I might be a little behind
+  - My original idea seems to not be as much of a hit as I thought it was going to be when we discussed our plans during class
+  - I might have to rethink some things and re-envision what I think this will look like in my head
 - **Solutions**:
-> I sat down for a few hours and finally decided the direction I wanted to go with my game. It was really helpful getting to hear what other students were working on during class and getting to share where I was at the moment. It gave me some insight that I was walking into a dead end if I stuck too much to my initial idea. So I wrote down what I definitely wanted to keep, throughout everything else like my shift in perspective concept and started anew.
+  > I sat down for a few hours and finally decided the direction I wanted to go with my game. It was really helpful getting to hear what other students were working on during class and getting to share where I was at the moment. It gave me some insight that I was walking into a dead end if I stuck too much to my initial idea. So I wrote down what I definitely wanted to keep, throughout everything else like my shift in perspective concept and started anew.
 
 #### Learnings
 - After listening to my classmates ideas during class, it seems they are happy with much of their game mechanics being determined by the role of a die
