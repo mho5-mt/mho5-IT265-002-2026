@@ -84,6 +84,8 @@ Cards
 
 ### Section #5: Visualizing The Game Concept
 #### Concept Sketches
+![image alt](MatthewO_GameBoard.PNG)
+![image alt](MatthewO_GamePerspective.PNG)
 
 ### Section #6: External Feedback
 #### Feedback 1
