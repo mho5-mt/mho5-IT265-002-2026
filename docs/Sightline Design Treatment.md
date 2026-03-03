@@ -24,51 +24,51 @@
 #### List of Game Mechanics
 - Overall
   - Turn Based: _Each round consists of an investigator phase and a phantom phase_
-  - Grid Based Board: The map will be composed of modular tiles representing rooms and corridors
-  - Sightline: Whoever sees the enemy player first will be given the option to attack them
-  - Cards: Players can pick up a card every turn, hold up to three and only cast two in a round
-  - Anchors: Investigators need to interact with 3 of the 5 anchors located around the map, it takes one full turn to cleanse an anchor
+  - Grid Based Board: _The map will be composed of modular tiles representing rooms and corridors_
+  - Sightline: _Whoever sees the enemy player at the end of their turn be given the option to attack them_
+  - Cards: _Players can pick up a card every turn, hold up to three and only cast two in a round_
+  - Anchors: _Investigators need to interact with 3 of the 5 anchors located around the map, it takes one full turn to cleanse an anchor_
 - Investigators
-  - Limited Vision: Investigators will only be able to see a 5x5 area around them, everything else will be masked in fog
-  - Movement: Investigators role a 1d6 to get around the board, quicker than the phantom
-  - Backstab: Allows the investigator to attack the phantom at the end of their turn
-  - Double Time: Backstabbing the phantom allows the player to role and play again, disabling the phantoms movement for two turns but not their ability to pick up cards
-  - Sanity: A health value of 100 given to each investigator in the match
+  - Limited Vision: _Investigators will only be able to see a 5x5 area around them, everything else will be masked in fog_
+  - Movement: _Investigators role a 1d6 to get around the board, quicker than the phantom_
+  - Backstab: _Allows the investigator to attack the phantom at the end of their turn_
+  - Double Time: _Backstabbing the phantom allows the player to role and play again, disabling the phantoms movement for two turns but not their ability to pick up cards_
+  - Sanity: _A health value of 100 given to each investigator in the match_
 - Phantoms
-  - Unlimited Vision: The phantom can see the entire board and all players currently occupying it
-  - Movement: Phantoms role a 1d4 to get around the board, slower than the investigators
-  - Phantom Screech: Allows the phantom to attack the investigators within a 3x3 area around them, dealing a third of the investigators health
-  - Phantom Strike: Attacking the player allows the phantom to draw another card and then teleport to one of the anchors on the map
-  - Shadow Step: Lets the phantom walk through one wall during their turn
+  - Unlimited Vision: _The phantom can see the entire board and all players currently occupying it_
+  - Movement: _Phantoms role a 1d4 to get around the board, slower than the investigators_
+  - Phantom Screech: _Allows the phantom to attack the investigators within a 3x3 area around them, dealing a third of the investigators health_
+  - Phantom Strike: _Attacking the player allows the phantom to draw another card and then teleport to one of the anchors on the map_
+  - Shadow Step: _Lets the phantom walk through one wall during their turn_
 - Cards
-  - Jolt: Adds +2 movement to the player’s next role
-  - Falter: Adds -2 movement to the selected player’s next role
-  - Surge: Adds +3 movement to the player’s next role
-  - Decay: Adds -3 movement to the selected player’s next role
-  - Entity Block: Blocks a corridor on the map for one turn
-  - Stake Out: Let’s investigators hold position for a turn and expands their vision to the corridor
-  - Barricade: Blocks one doorway for two turns so no one can get in
-  - Spine Chill: Shrink the chosen investigator’s vision to 3x3 for two turns
-  - Possession: Force the investigator to move two titles in the chosen direction
-  - Phase Shift: Swaps the location of the investigator with the phantom’s current location
-  - Sightline: Shows the entire map and its player positions 
-  - Shadow Step: Lets the phantom walk through one addition wall during their turn
-  - Reanimate: Allows the phantom to teleport to one of the maps five anchors
-  - Prepared: Draw two cards and discard one
-  - Just Like Me: Limits the phantoms view to just 5x5 for two turns
-  - Survey: Peek at any five connected titles outside of the player’s 5x5
-  - Marking Chalk: Place a mark on a tile, if the phantom walks on it you are notified
-  - Make Shift Anchor: Places an object that keeps the corridor from being moved for two turns
-  - Steadfast: Move in a straight line until colliding with a wall with no cost to the dice roll
-  - Cold Presence: The phantom places a snare to trap the investigators for a turn
-  - Curse of Binding: Makes the cleanse of the selected anchor take twice as long
-  - Shadow Walk: Makes the chosen hallway covered in fog, hidden from the phantom
-  - Campfire Story: Restores a third of your current sanity 
-  - Whisper: Moves a corridor one way in any chosen direction
-  - Torch Light: Places a 3x3 torch that gives away the phantoms location
-  - Lost One: The phantom can swap one chosen corridor with another
-  - Ghost Link: Links one door’s exit position with another on the map
-  - Holy Light: Lights one corridor within reach revealing whatever is inside
+  - Jolt: _Adds +2 movement to the player’s next role_
+  - Falter: _Adds -2 movement to the selected player’s next role_
+  - Surge: _Adds +3 movement to the player’s next role_
+  - Decay: _Adds -3 movement to the selected player’s next role_
+  - Entity Block: _Blocks a corridor on the map for one turn_
+  - Stake Out: _Let’s investigators hold position for a turn and expands their vision to the corridor_
+  - Barricade: _Blocks one doorway for two turns so no one can get in_
+  - Spine Chill: _Shrink the chosen investigator’s vision to 3x3 for two turns_
+  - Possession: _Force the investigator to move two titles in the chosen direction_
+  - Phase Shift: _Swaps the location of the investigator with the phantom’s current location_
+  - Sightline: _Shows the entire map and its player positions_
+  - Shadow Step: _Lets the phantom walk through one addition wall during their turn_
+  - Reanimate: _Allows the phantom to teleport to one of the maps five anchors_
+  - Prepared: _Draw two cards and discard one_
+  - Just Like Me: _Limits the phantoms view to just 5x5 for two turns_
+  - Survey: _Peek at any five connected titles outside of the player’s 5x5_
+  - Marking Chalk: _Place a mark on a tile, if the phantom walks on it you are notified_
+  - Make Shift Anchor: _Places an object that keeps the corridor from being moved for two turns_
+  - Steadfast: _Move in a straight line until colliding with a wall with no cost to the dice roll_
+  - Cold Presence: _The phantom places a snare to trap the investigators for a turn_
+  - Curse of Binding: _Makes the cleanse of the selected anchor take twice as long_
+  - Shadow Walk: _Makes the chosen hallway covered in fog, hidden from the phantom_
+  - Campfire Story: _Restores a third of your current sanity_
+  - Whisper: _Moves a corridor one way in any chosen direction_
+  - Torch Light: _Places a 3x3 torch that gives away the phantoms location_
+  - Forgotten: _The phantom can swap one chosen corridor with another_
+  - Ghost Link: _Links one door’s exit position with another on the map_
+  - Holy Light: _Lights one corridor within reach revealing whatever is inside_
   
 ### Section #2: Target Audience Analysis
 #### Target Audience
@@ -89,20 +89,20 @@
 
 ### Section #6: External Feedback
 #### Feedback 1
-Interviewee: Emily Gajilian (girlfriend)
+**Interviewee:** Emily Gajilian (girlfriend)
 > Finds the concept exciting and is looking forward to playing it. There are not a lot of asymmetrical games out there, so it is fun having one role with higher power over the other. She loves the name and that it is horror themed, but not actual horror. Has a certain eeriness to it that leaves room to make it scary even though that is not the goal. It even makes it scarier being that the players have to fill in the blanks. Its clever things take place in the dark, masking information between the investigators and the phantoms. Helps with game depth. Thinks the mechanics are balanced already, seems like it leaves fun for exciting moments between players on the couch. Things are already fair between both sides because things are left open to randomness. Not all cards should have the same probability over the other, not sure if it would do anything because there are not all that many to begin with. The smaller the pool, the more likely you are to get the seemingly overpowered ones. This would help if I ever ran into balancing issues. 
 - Chaotic fun and exciting moments between friends are the selling point of my game, although the game is simplistic, aim to recreate as many unique interactions (memories) as possible
 - Not all the cards should have the same percentage to obtain in the pool, in order to reduce the chance of getting the ones that might prove overpowered
 
 #### Feedback 2
-Interviewee: George Cruz-Medina (studio bestie)
+**Interviewee:** George Cruz-Medina (studio bestie)
 > Seems really fun to play right out the bat, like something they would hop on and try out with their friends. Some of the cards sound like they become a little over powered in their opinion and they are worried about game balance. Best to play these things by ear though, because you want them to actually be influential. Everything else is fine, the objectives are good and clear. Clear game flow and looking forward to the multiplayer of it all. 
 - Another concern about game balance, these effects can be altered and nerfed in the long term, but it is likely best for them to be added on the safe side of strong initially to fully gauge their impact
 - Games in the past have balanced overpowered abilities and mechanics by supplying them to everyone, and so since everyone has the same assets, it balances out, maybe I should do the same with my two roles
 - In theory the game would be playable in a 1v4 format, but for the time being it will be balanced for lesser, things might get complicated once I start to pursue that endeavor
   
 #### Feedback 3
-Interviewee: Joseph Lopez (homeboy)
+**Interviewee:** Joseph Lopez (homeboy)
 > They think the idea is really cool and awesome and cannot wait to play it themselves. Likes how it takes place in an asylum and how the game is spooky themed, but not horror. If it is an asylum however, it should have the appropriate variances that would normally be found in them. Some of the card names are just a little random. If there is only one setting, everything should cater around it. Recommends adding lots of blood, an electric chair of some sorts and other more appropriate things. They can each be colliders to block the investigator's path. Not all obstacles should be just walls. Add a lot of debris as well to make things interesting, maybe some can tie directly in with the cards.
 - Although I have chosen the setting of asylum, I have yet to put too much thought into what the individual corridors will look like and what will fill them, this will require additional research
 - Even the names themselves become obscure after a while and detached from where the game takes place, I will have to go through them all and keep that in mind when I make new ones
