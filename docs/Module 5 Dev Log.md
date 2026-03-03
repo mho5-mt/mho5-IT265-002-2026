@@ -34,7 +34,7 @@
 #### Free Thinking
 - I wonder if I made enough cards or not, I want chaos, but the game also needs to be balanced to a degree
 - The game should be fun no matter the chase, I am so excited to see people try it out
-- It also might be more enjoyable than I initially thought making the physical prototype, because originally I wanted to go straight into unity
+- It also might be more enjoyable than I thought making the physical prototype, because originally I wanted to go straight into unity
 - Now I am looking forward to the challenge and even think it might be beneficial in the long run
 
 #### Next Steps
