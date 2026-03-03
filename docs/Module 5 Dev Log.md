@@ -11,8 +11,8 @@
 
 #### Progress
 - **What I accomplished**:
-  - Literally everything, I did just about all the thinking I needed to do for my game over the course of the semester in a single weekend
-  - Not that I did nothing before, but I finally composed ideas that I am certain will make an appearance in the final version of the game
+  - Literally everything, I did just about all the thinking I had to do for my game over the course of the semester in a single weekend
+  - Not that I did nothing before, but I finally composed ideas I am certain will make an appearance in the final game version
   - I figured out the game’s background, who I will be catering too for my target audience, its setting and story, its and theme and main objectives
 - **Challenges faced**:
   - I really enjoy thinking about the game’s mechanics and how it will play, so I found all the paint that goes over it, like its backstory and setting to be a little boring to put together
