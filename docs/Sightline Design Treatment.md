@@ -16,54 +16,54 @@
 **Objectives and Conflicts:** The main objective of Sightline is for a group of investigators to enter a haunted asylum and work together to cleanse the area. This is done by interacting with three out of five special objects scattered around the map in set locations. These will be referred to as anchors. While trying to navigate the maze-like interior, these players will be actively pursued by another person playing the role of phantom. In contrast to investigators who are near-sighted, the phantom has unique mobility, map wide control and constant information on players current positions. They are the main challenge standing in the way of these anchors, who aim to stall their opponents and drain them of all their health. Players will have to strategize with the game’s numerous movement cards and use them in tandem to outplay the other role.
 
 **List of Game Mechanics**
-Overall
-- Turn Based: _Each round consists of an investigator phase and a phantom phase_
-- Grid Based Board: The map will be composed of modular tiles representing rooms and corridors
-- Sightline: Whoever sees the enemy player first will be given the option to attack them
-- Cards: Players can pick up a card every turn, hold up to three and only cast two in a round
-- Anchors: Investigators need to interact with 3 of the 5 anchors located around the map, it takes one full turn to cleanse an anchor
-Investigators
-- Limited Vision: Investigators will only be able to see a 5x5 area around them, everything else will be masked in fog
-- Movement: Investigators role a 1d6 to get around the board, quicker than the phantom
-- Backstab: Allows the investigator to attack the phantom at the end of their turn
-- Double Time: Backstabbing the phantom allows the player to role and play again, disabling the phantoms movement for two turns but not their ability to pick up cards
-- Sanity: A health value of 100 given to each investigator in the match
-Phantoms
-- Unlimited Vision: The phantom can see the entire board and all players currently occupying it
-- Movement: Phantoms role a 1d4 to get around the board, slower than the investigators
-- Phantom Screech: Allows the phantom to attack the investigators within a 3x3 area around them, dealing a third of the investigators health
-- Phantom Strike: Attacking the player allows the phantom to draw another card and then teleport to one of the anchors on the map
-- Shadow Step: Lets the phantom walk through one wall during their turn
-Cards
-- Jolt: Adds +2 movement to the player’s next role
-- Falter: Adds -2 movement to the selected player’s next role
-- Surge: Adds +3 movement to the player’s next role
-- Decay: Adds -3 movement to the selected player’s next role
-- Entity Block: Blocks a corridor on the map for one turn
-- Stake Out: Let’s investigators hold position for a turn and expands their vision to the corridor
-- Barricade: Blocks one doorway for two turns so no one can get in
-- Spine Chill: Shrink the chosen investigator’s vision to 3x3 for two turns
-- Possession: Force the investigator to move two titles in the chosen direction
-- Phase Shift: Swaps the location of the investigator with the phantom’s current location
-- Sightline: Shows the entire map and its player positions 
-- Shadow Step: Lets the phantom walk through one addition wall during their turn
-- Reanimate: Allows the phantom to teleport to one of the maps five anchors
-- Prepared: Draw two cards and discard one
-- Just Like Me: Limits the phantoms view to just 5x5 for two turns
-- Survey: Peek at any five connected titles outside of the player’s 5x5
-- Marking Chalk: Place a mark on a tile, if the phantom walks on it you are notified
-- Make Shift Anchor: Places an object that keeps the corridor from being moved for two turns
-- Steadfast: Move in a straight line until colliding with a wall with no cost to the dice roll
-- Cold Presence: The phantom places a snare to trap the investigators for a turn
-- Curse of Binding: Makes the cleanse of the selected anchor take twice as long
-- Shadow Walk: Makes the chosen hallway covered in fog, hidden from the phantom
-- Campfire Story: Restores a third of your current sanity 
-- Whisper: Moves a corridor one way in any chosen direction
-- Torch Light: Places a 3x3 torch that gives away the phantoms location
-- Lost One: The phantom can swap one chosen corridor with another
-- Ghost Link: Links one door’s exit position with another on the map
-- Holy Light: Lights one corridor within reach revealing whatever is inside
-- 
+- Overall
+  - Turn Based: _Each round consists of an investigator phase and a phantom phase_
+  - Grid Based Board: The map will be composed of modular tiles representing rooms and corridors
+  - Sightline: Whoever sees the enemy player first will be given the option to attack them
+  - Cards: Players can pick up a card every turn, hold up to three and only cast two in a round
+  - Anchors: Investigators need to interact with 3 of the 5 anchors located around the map, it takes one full turn to cleanse an anchor
+- Investigators
+  - Limited Vision: Investigators will only be able to see a 5x5 area around them, everything else will be masked in fog
+  - Movement: Investigators role a 1d6 to get around the board, quicker than the phantom
+  - Backstab: Allows the investigator to attack the phantom at the end of their turn
+  - Double Time: Backstabbing the phantom allows the player to role and play again, disabling the phantoms movement for two turns but not their ability to pick up cards
+  - Sanity: A health value of 100 given to each investigator in the match
+- Phantoms
+  - Unlimited Vision: The phantom can see the entire board and all players currently occupying it
+  - Movement: Phantoms role a 1d4 to get around the board, slower than the investigators
+  - Phantom Screech: Allows the phantom to attack the investigators within a 3x3 area around them, dealing a third of the investigators health
+  - Phantom Strike: Attacking the player allows the phantom to draw another card and then teleport to one of the anchors on the map
+  - Shadow Step: Lets the phantom walk through one wall during their turn
+- Cards
+  - Jolt: Adds +2 movement to the player’s next role
+  - Falter: Adds -2 movement to the selected player’s next role
+  - Surge: Adds +3 movement to the player’s next role
+  - Decay: Adds -3 movement to the selected player’s next role
+  - Entity Block: Blocks a corridor on the map for one turn
+  - Stake Out: Let’s investigators hold position for a turn and expands their vision to the corridor
+  - Barricade: Blocks one doorway for two turns so no one can get in
+  - Spine Chill: Shrink the chosen investigator’s vision to 3x3 for two turns
+  - Possession: Force the investigator to move two titles in the chosen direction
+  - Phase Shift: Swaps the location of the investigator with the phantom’s current location
+  - Sightline: Shows the entire map and its player positions 
+  - Shadow Step: Lets the phantom walk through one addition wall during their turn
+  - Reanimate: Allows the phantom to teleport to one of the maps five anchors
+  - Prepared: Draw two cards and discard one
+  - Just Like Me: Limits the phantoms view to just 5x5 for two turns
+  - Survey: Peek at any five connected titles outside of the player’s 5x5
+  - Marking Chalk: Place a mark on a tile, if the phantom walks on it you are notified
+  - Make Shift Anchor: Places an object that keeps the corridor from being moved for two turns
+  - Steadfast: Move in a straight line until colliding with a wall with no cost to the dice roll
+  - Cold Presence: The phantom places a snare to trap the investigators for a turn
+  - Curse of Binding: Makes the cleanse of the selected anchor take twice as long
+  - Shadow Walk: Makes the chosen hallway covered in fog, hidden from the phantom
+  - Campfire Story: Restores a third of your current sanity 
+  - Whisper: Moves a corridor one way in any chosen direction
+  - Torch Light: Places a 3x3 torch that gives away the phantoms location
+  - Lost One: The phantom can swap one chosen corridor with another
+  - Ghost Link: Links one door’s exit position with another on the map
+  - Holy Light: Lights one corridor within reach revealing whatever is inside
+  
 ### Section #2: Target Audience Analysis
 #### Target Audience
 > The target audience of Sightline are casual players. I am making a fast paced couch co-op party game that is meant to inspire chaotic fun and collaboration between friends. The time invested into each match should be down to a minimum. Mechanics will be simple and straightforward, so much so that it can easily be picked up and replayed if desired. This likely appeals most to younger children, but since it is a competitive experience that does require a certain level of thoughtfulness to succeed, older kids to mid teens is probably where it would find the biggest audience. I’ll try to cater to players who are just old enough to look forward to complexity, but not old enough that the friend group stops hanging out in person and just starts gaming online. 
