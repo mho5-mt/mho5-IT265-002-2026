@@ -1,6 +1,6 @@
-## Sightline Design Treatment
+# Sightline Design Treatment
 
-### Matthew Onorato (Spring 2026)
+## Matthew Onorato (Spring 2026)
 
 ### Section #1: Crafting The Game Treatment
 #### Title
