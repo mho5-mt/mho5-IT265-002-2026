@@ -38,7 +38,7 @@
   - Unlimited Vision: The phantom can see the entire board and all players currently occupying it
   - Movement: Phantoms role a 1d4 to get around the board, slower than the investigators
   - Phantom Screech: Allows the phantom to attack the investigators within a 3x3 area around them, dealing a third of their health
-  - Phantom Strike: Attacking the player allows the phantom to draw another card and then teleport to one of the anchors on the map
+  - Phantom Strike: Attacking the player allows the phantom to draw another card and then teleport to one of the map's anchors
   - Shadow Step: Lets the phantom walk through one wall during their turn
 - Cards
   - Jolt: Adds +2 movement to the player’s next role
