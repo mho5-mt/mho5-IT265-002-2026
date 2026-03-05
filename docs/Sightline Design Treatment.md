@@ -2,7 +2,7 @@
 
 ## Matthew Onorato (Spring 2026)
 
-### Section #1: Crafting The Game Treatment
+### Section #1: Crafting The Game Treatmen
 #### Title
 > The title of my very own game will be called Sightline. I have dubbed it this because it suggests a certain amount of ominousness that I quite like. It is not meant to be a horror game, and given its target audience, it should not be. It should however, be spooky in theme to support the main gameplay mechanics which ultimately revolve around a match of hide and seek. Sightline not only alludes to this tone but plays into the fact that interaction between players can only take place when one has line of sight on the other. No matter the chosen role or how unique it plays, both sides have to abide by this one rule.
 
