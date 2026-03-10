@@ -34,7 +34,7 @@
 - It has been stressful and has taken me away from projects in other classes that I was actually really looking forward to working on
 - I hope I am not falling behind in them, it is just exhausting because I have to model assets in three out of my five classes
 - Soon I will have to model things for my game in this class, making that four out of my five classes
-- And that fifth class does have me animating, so I am busy working in maya in all of my classes this semester and I think I am running out of energy
+- And that fifth class has me animating, so I am busy working in maya for all my classes this semester and I am running out of energy
 
 #### Next Steps
 - The next steps are definitely to study up for the upcoming exam
@@ -42,4 +42,4 @@
 - Then I need to start making things for my physical prototype
 - I have a lot of materials left over from back when I used to take architecture at NJIT, so I have a reserve of cutting tools and card stock
 - There is still much planning to do, but I think it will involve folding several layers of paper over each other
-- This will be the main way I will achieve the desired feel of my game, which involves conseiling information from one player but not both
+- This will be the main way I will achieve the desired feel of my game, which conseals information from one player but not both
