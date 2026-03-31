@@ -46,6 +46,7 @@
 - To give the investigator more distance away from a zone, they get to play again after cleansing an anchor
 - Maybe the god card should be made base hit once two out of the five anchors are cleansed to make the last one more interesting
 - Possibly show anchor locations to investigators at the start of the match, but not the routes to get to them
+- Maybe make it so it does not take a round to cleanse anchors, it could just be a pick up
 
 #### Next Steps
 - The next steps would include showing what I made to all of my classmates tomorrow to see what they think
