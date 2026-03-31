@@ -33,8 +33,8 @@
 - Making a game is hard, and nothing played out how I thought it would
 - We had to make up things on the spot, but having a physical model meant I could adjust and try them out immediately
 - The physical board did not change, but the way we played around it did and that made all the difference
-- The biggest change was limiting what I could and could not see, this made it so I was making more decisions instead of being all knowing
-- I believe it made it so there was more give and take and more interactions happening between both players in a more dynamic manner
+- The biggest change was limiting the phantom, this made it so I was making more decisions instead of being all knowing
+- I believe it made it so there was more give and take, interactions happening between both players in a more dynamic manner
 
 #### Free Thinking
 - I multiplied the roll of our die by two to make moving quicker and easier
@@ -44,7 +44,7 @@
 - Since we both knew where the other wanted to be, it made it this interesting guessing game between players
 - Cards that only last a set amount of turns should just last the entire match because the game's length does not support them
 - To give the investigator more distance away from a zone, they get to play again after cleansing an anchor
-- Maybe the god card should be made base hit once two out of the five anchors are cleansed to make getting the last one more interesting
+- Maybe the god card should be made base hit once two out of the five anchors are cleansed to make the last one more interesting
 - Possibly show anchor locations to investigators at the start of the match, but not the routes to get to them
 
 #### Next Steps
