@@ -17,9 +17,9 @@
   - It was a little hard explaining how the game worked to my fellow students during the presentation
   - There are so many layers and features to learn, doubled by the fact that there are two roles to pick from
   - Understanding that core gameplay loop is especially difficult, so I did my best to walk them through it
-  - This lack of truely knowing until they actually get to play it might have hampered my feedback a bit
+  - This lack of truly knowing until they actually get to play it might have hampered my feedback a bit
 - **Solutions**:
-  - I made a comparision to my game reference, an older game for the wii u I thought no one would remember
+  - I made a comparison to my game reference, an older game for the wii u I thought no one would remember
   - One person did however and it was really fun to see, they ended up asking to most insightful questions
   - I tried to walk everyone through how the game started, the problems we faced and how I adjusted because of them
   - Seeing where they got lost and what was not as intuitive as I thought was also informative
@@ -36,7 +36,7 @@
 - There is a major project going on in each of my five classes and I think it is becoming too much
 - This semester has been fun, but I think I will be taking less classes next semester because of it to narrow down my scope 
 - I am amazed how much I have managed to get done with the limited time, I will have to see how everything turns out
-- I am curious how many of the projects for my classes run into finals week, rather than just the last day of class
+- I have been wondering how many of the projects for my classes run into finals week, rather than just the last day of class
 
 #### Next Steps
 - Make a plan to better manage my time and know where exactly I want to call it done with the projects in my class
