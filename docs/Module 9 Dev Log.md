@@ -11,7 +11,7 @@
 #### Progress
 - **What I accomplished**:
   - Yesterday I finished my case study on a game of my own choosing, I picked one of my favorites Dead by Daylight
-  - Overall I think I did the whole assignment in two very long sittings, conducting research and searching for old reviews and discussions
+  - Overall I think I did the whole assignment in two very long sittings, conducting research and reviewing old discussions
   - This morning I will reread everything I wrote one more time just to make sure it is grammatically correct and all
   - It feels good getting that out of the way early so I can focus more the on assignments that matter in the long run
   - I must say though, it was fun exploring a topic I was already passionate about and familiar with
