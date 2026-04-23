@@ -15,7 +15,7 @@
 - **Challenges faced**:
   - It dawned upon me halfway through that good feeling that I do not know how to script in the slightest
 - **Solutions**:
-  - I ended up using chatgbt to help me make a few of these basic scripts, teach me code lingo and implement it
+  - I ended up using chatgpt to help me make a few of these basic scripts, teach me code lingo and implement it
   - It started by helping me move my player character in all four directions a set amount of distance each time
   - Then it helped me set up a grid to have a square in every direction the amount of units the player moves
     
@@ -33,7 +33,7 @@
 - I also think every professor wanted us to have finals week free to study so each gave the same deadline
 - I am going to try my best and hope I can make something cool
 - I want to learn whether the game experience I actually designed is fun or functional or both or neither
-- Does chatgbt have a space in between chat and gbt, I have said both in my dev log to cover my bases
+- Does chatgpt have a space in between chat and gpt, I have said both in my dev log to cover my bases
 
 #### Next Steps
 - Continue figuring out what needs to be done or not for my game to function at its simplest
