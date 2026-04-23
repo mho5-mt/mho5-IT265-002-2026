@@ -33,7 +33,7 @@
 - I also think every professor wanted us to have finals week free to study so each gave the same deadline
 - I am going to try my best and hope I can make something cool
 - I want to learn whether the game experience I actually designed is fun or functional or both or neither
-- Does chatgbt have a space in between chat and gbt, I am going to say both to cover my bases
+- Does chatgbt have a space in between chat and gbt, I have said both in my dev log to cover my bases
 
 #### Next Steps
 - Continue figuring out what needs to be done or not for my game to function at its simplest
